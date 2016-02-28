@@ -1,0 +1,9 @@
+N:\C#\bConsole\bin\Debug\bConsole.exe.config
+N:\C#\bConsole\bin\Debug\bConsole.exe
+N:\C#\bConsole\bin\Debug\bConsole.pdb
+N:\C#\bConsole\obj\Debug\bConsole.csprojResolveAssemblyReference.cache
+N:\C#\bConsole\obj\Debug\Philosophical_Artificial_Intelligence.BConsole.resources
+N:\C#\bConsole\obj\Debug\bConsole.Properties.Resources.resources
+N:\C#\bConsole\obj\Debug\bConsole.csproj.GenerateResource.Cache
+N:\C#\bConsole\obj\Debug\bConsole.exe
+N:\C#\bConsole\obj\Debug\bConsole.pdb

@@ -1,0 +1,18 @@
+D:\personal\Programming\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\bin\Debug\Philosophical Artificial Intelligence.exe.config
+D:\personal\Programming\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\bin\Debug\Philosophical Artificial Intelligence.exe
+D:\personal\Programming\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\bin\Debug\Philosophical Artificial Intelligence.pdb
+D:\personal\Programming\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical Artificial Intelligence.csprojResolveAssemblyReference.cache
+D:\personal\Programming\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical_Artificial_Intelligence.BConsole.resources
+D:\personal\Programming\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical_Artificial_Intelligence.Properties.Resources.resources
+D:\personal\Programming\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical Artificial Intelligence.csproj.GenerateResource.Cache
+D:\personal\Programming\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical Artificial Intelligence.exe
+D:\personal\Programming\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical Artificial Intelligence.pdb
+F:\Programs\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\bin\Debug\Philosophical Artificial Intelligence.exe.config
+F:\Programs\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical Artificial Intelligence.exe
+F:\Programs\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical Artificial Intelligence.pdb
+F:\Programs\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\bin\Debug\Philosophical Artificial Intelligence.exe
+F:\Programs\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\bin\Debug\Philosophical Artificial Intelligence.pdb
+F:\Programs\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical Artificial Intelligence.csprojResolveAssemblyReference.cache
+F:\Programs\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical_Artificial_Intelligence.BConsole.resources
+F:\Programs\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical_Artificial_Intelligence.Properties.Resources.resources
+F:\Programs\C#\Windows Form\Philosophical Artificial Intelligence\Philosophical Artificial Intelligence\obj\Debug\Philosophical Artificial Intelligence.csproj.GenerateResource.Cache
